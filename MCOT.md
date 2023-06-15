@@ -1,15 +1,16 @@
 # Titre
+Création d'une intelligence artificielle pour le jeu de Hex
 
 ## Motivations pour le choix du sujet
 
 
 ## Ancrage du sujet au thème de l'année
-
+L'intelligence artificielle tente de jouer à un jeu.
 
 ## Positionnement thématique (par ordre de priorité décroissante)
 1. Informatique pratique
 2. Informatique théorique
-3. 
+3. Mathématiques
 
 - Informatique : Technologie informatiques, Informatique théorique, Informatique pratique.
 - Mathématiques : Algèbre, Analyse, Topologie & Géométrie, Probabilités, Autres domaines.
@@ -20,10 +21,10 @@
 
 Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus significatifs de son travail**. Ils doivent être en **cohérence** avec la bibliographie, la problématique et les objectifs choisis par le candidat. Les mots-clés doivent être renseignés dans un ordre décroissant d'importance et permettre de bien cerner le périmètre des recherches.
 
-1.
-2.
-3.
-4.
+1. recherche arboresente Monte-Carlo
+2. Fonction d'évaluation
+3. Stratégie gagnante
+4. 
 5.
 
 
