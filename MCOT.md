@@ -32,22 +32,22 @@ Le choix de 5 mots-clés incite le candidat à **isoler les éléments les plus 
 
 
 ## Problématique retenue (max 50 mots)
-
+Peut-on créer une IA pour le jeu de Hex capable de rivaliser avec des joueurs humains ?
 
 ## Objectifs du TIPE (max 100 mots)
 
-1.
-2.
+1. Création d'une IA pour le jeu de Hex
+2. Montrer qu'il ne peut pas y avoir de match nul / qu'il existe une stratégie gagnante (+ on connait celle pour un plateau de taille n * n+1)
 3.
 
 
 ## Références bibliographiques (2 à 10 références)
 
-1. Fonction d'évaluation : https://www.sciencedirect.com/science/article/pii/S0004370201001540?ref=pdf_download&fr=RR-2&rr=7a66d150a99a0084![image](https://github.com/looogthin/TIPE-1/assets/80441971/f1698baa-d28e-46a4-9bda-338fd2f15ca6)
-2. Liaisons / MCTS / UCT / RAVE / AMAF : https://www.lamsade.dauphine.fr/~cazenave/papers/hex-ria.pdf![image](https://github.com/looogthin/TIPE-1/assets/80441971/7e478c72-42c0-48f2-a040-fb9ceb7403a8)
-3. MCTS / UCT : http://enslyon.free.fr/rapports/info/Abdallah_Saffidine_L3.pdf![image](https://github.com/looogthin/TIPE-1/assets/80441971/09d8f5d6-5444-40b2-8178-1bd8cd838442)
-4. MCTS : http://math.univ-lille1.fr/~calgaro/TER_2019/wa_files/bargibant-jesuspret.pdf![image](https://github.com/looogthin/TIPE-1/assets/80441971/de58a879-2895-456b-8a4f-7f92a6268935)
-5. Aucun match nul / Stratégie gagnante (plateau m∗m et n∗(n+1)) : https://jcresson.perso.univ-pau.fr/hex.pdf![image](https://github.com/looogthin/TIPE-1/assets/80441971/5e5672cf-2f64-4e7d-882b-5199bd7ed4b3)
+1. Fonction d'évaluation : https://www.sciencedirect.com/science/article/pii/S0004370201001540?ref=pdf_download&fr=RR-2&rr=7a66d150a99a0084
+2. Liaisons / MCTS / UCT / RAVE / AMAF : https://www.lamsade.dauphine.fr/~cazenave/papers/hex-ria.pdf
+3. MCTS / UCT : http://enslyon.free.fr/rapports/info/Abdallah_Saffidine_L3.pdf
+4. MCTS : http://math.univ-lille1.fr/~calgaro/TER_2019/wa_files/bargibant-jesuspret.pdf
+5. Aucun match nul / Stratégie gagnante (plateau m∗m et n∗(n+1)) : https://jcresson.perso.univ-pau.fr/hex.pdf
 6. 
 7. 
 8. 
